@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "titulo": "Los Diarios de la Boticaria",
+    "situacion": "Presentación del proyecto web. es una joven con profundos conocimientos en herbolaria y toxinas es vendida al palacio interior de la corte imperial de China, donde usará la lógica y la ciencia para resolver misterios.",
+    "sintomas": "La ignorancia generalizada de la población y de la corte ante los peligros cotidianos presentes en la comida, cosméticos y naturaleza.",
+    "diagnostico": "Falta de acceso a la información médica básica para las personas comunes, lo que provoca tragedias evitables por supersticiones o mitos.",
+    "prevencion_boticaria": "nuestro objetivo es crear un registro interactivo y divertido (este sitio web) que actúe como un diario personal. Aquí se recopilarán plantas, venenos, síntomas y antídotos explicados de forma sencilla para que cualquiera pueda proteger su salud y aprender herbolaria.",
+    "imagen": "https://i.pinimg.com/736x/c7/60/e3/c760e3baa37a75cdab566fad6276df66.jpg",
+    "color": "#96AC60",
+    "colorLetra": "#000000"
+  },
+  {
+    "id": 0.5,
+    "titulo": " Advertencia de la Boticaria",
+    "situacion": "Nota aclaratoria para los lectores comunes que visitan este cuaderno de notas.",
+    "sintomas": "Intentar autodiagnosticarse o asumir que todos los casos médicos se resuelven de la misma manera.",
+    "diagnostico": "Los síntomas en el cuerpo humano pueden ser engañosos. Un dolor de estómago puede ser plomo, una planta, o simplemente nervios. La medicina no es una ciencia de respuestas únicas.",
+    "prevencion_boticaria": "La información aquí recopilada está inspirada en casos históricos y de ficción para aprender de forma divertida. Ante cualquier malestar real en el mundo moderno, no actúes solo como Maomao: consulta siempre a un médico o boticario profesional certificado. La dosis y el contexto lo son todo.",
+    "imagen": "https://i.pinimg.com/736x/fb/01/0e/fb010ef6d1c7d848fdf8f3149b8cd4cd.jpg",
+    "color": "#37b837",
+    "colorLetra": "#FFFFFF"
+  },
+  {
+    "id": 1,
+    "titulo": "Episodio 1: La Maldición de los Herederos Reales",
+    "situacion": "Los bebés recién nacidos de las consortes imperiales enferman gravemente y mueren uno tras otro. La corte culpa a una 'maldición sobrenatural', pero Maomao nota que ambas madres usan el mismo polvo facial cosmético.",
+    "sintomas": "En las madres: Fatiga, dolores abdominales intensos (cólico saturnino), piel marchita y manchas grises. En los bebés: Fiebres altas, debilidad extrema, pérdida de peso, convulsiones y muerte prematura.",
+    "diagnostico": "Envenenamiento crónico por plomo (Saturnismo). El polvo blanco de las damas contiene carbonato básico de plomo (cerusa). Las toxinas se absorben por la piel de la madre y se transmiten al bebé a través de la lactancia y el contacto físico directo.",
+    "prevencion_boticaria": "Prohibición absoluta del cosmético de plomo. Tratamiento: Limpieza inmediata de la piel y una dieta rica en ajo, jengibre y té verde para ayudar al hígado a expulsar los metales. Alternativa segura: Sustituir el maquillaje letal por polvo de arroz fino mezclado con agua de rosas u óxido de zinc natural.",
+    "imagen": "https://i.pinimg.com/736x/24/b9/3d/24b93d022222db50a146c0c8a8e88399.jpg",
+    "color": "#7F67AC",
+    "colorLetra": "#FFFFFF"
+  },
+  {
+    "id": 2.1,
+    "titulo": "Episodio 2: El Arte de Catar y los Cuencos de Cerámica",
+    "situacion": "Maomao es nombrada catadora oficial de la Consorte Gyokuyou. Debe probar cada plato antes de que toque los labios de la realeza para detectar sustancias letales.",
+    "sintomas": "No aplica (fase de prevención), pero busca detectar salivación excesiva, adormecimiento de la lengua, olor a almendras amargas (cianuro) o cambios drásticos de sabor.",
+    "diagnostico": "Los asesinos astutos usan venenos orgánicos o alcaloides modernos que no reaccionan ante las famosas horquillas de plata de la corte (la plata solo se ennegrece con el azufre).",
+    "prevencion_boticaria": "Uso estricto de cuencos de cerámica blanca y limpia. La cerámica permite observar cambios milimétricos en el color del caldo, burbujeos inusuales o sedimentos extraños en el fondo. Además, Maomao consume pequeñas dosis de toxinas diariamente para desarrollar inmunidad y detectar venenos sutiles con su propia lengua sin morir en el intento.",
+    "imagen": "https://i.pinimg.com/736x/cf/68/ba/cf68ba01661c7e46eeb5bd91e76cc996.jpg",
+    "color": "#4E7D58",
+    "colorLetra": "#FFFFFF"
+  },
+  {
+    "id": 2.2,
+    "titulo": "Episodio 2: La Demostración del Rododendro",
+    "situacion": "Jinshi pone a prueba los conocimientos y la sumisión de Maomao. Para demostrar su naturaleza boticaria y su obsesión por las toxinas, ella arranca una hoja de Rododendro del jarron en la sala de la oficina y la mastica voluntariamente para explicar sus efectos.",
+    "sintomas": "Náuseas intensas, salivación excesiva, ardor en la boca, debilidad muscular, pulso lento y una severa dificultad para respirar debido a la parálisis progresiva del diafragma.",
+    "diagnostico": "Envenenamiento voluntario por Graianotoxinas presentes en las hojas y flores del Rododendro (Rhododendron). Estas toxinas alteran los canales de sodio de las células, bloqueando las señales nerviosas hacia los músculos y el sistema respiratorio.",
+    "prevencion_boticaria": "Maomao escupe la hoja inmediatamente tras extraer el sabor para no absorber una dosis letal. Cura: En caso de ingesta accidental, se debe inducir el vómito mecánico de inmediato, enjuagar la boca con agua fría y consumir té de carbón activado para absorber el veneno restante. Es una planta ornamental común en los palacios, por lo que se debe educar a los sirvientes para que nunca confundan sus hojas con condimentos.",
+    "imagen": "https://i.pinimg.com/1200x/ef/6d/a4/ef6da45dd8e8471dc70d6505dbe83a32.jpg",
+    "color": "#C39BD3",
+    "colorLetra": "#000000"
+  },
+  {
+    "id": 2.3,
+    "titulo": "Episodio 2: El Misterio de los Palillos de Madera",
+    "situacion": "Un grupo de soldados enferma repentinamente en un campamento militar. La corte culpa a los aldeanos de sabotaje, pero Maomao sospecha de la naturaleza: deduce que los soldados usaron ramas de un arbusto venenoso desconocido del bosque como leña y para tallar sus propios palillos de comer.",
+    "sintomas": "Náuseas severas, vómitos violentos, dolores abdominales agudos, mareos intensos, debilidad, pulso peligrosamente lento (arritmia) y asfixia por dificultad respiratoria.",
+    "diagnostico": "Sospecha de intoxicación por glucósidos cardíacos (como la oleandrina). Aunque la boticaria no puede asegurar al 100% la identidad de la planta sin analizar los restos, los síntomas apuntan directamente al comportamiento del Laurel de Flor / Adelfa (Nerium oleander), cuya savia se traspasa a la comida al usar sus ramas verdes como cubiertos.",
+    "prevencion_boticaria": "Ante la duda en la naturaleza, jamás uses madera verde o arbustos desconocidos para cocinar, pinchar comida o fabricar utensilios. Tratamiento de emergencia: Provocar el vómito mecánico inmediato si la ingesta fue reciente para expulsar los jugos de la planta y consumir carbón activado para frenar el veneno en el estómago. Prevención en tropas: Llevar siempre cubiertos propios de metal o caña de bambú verificada.",
+    "imagen": "https://i.pinimg.com/1200x/6d/57/1a/6d571a360d405c709be849d4c91a5a2e.jpg",
+    "color": "#E8A7A1",
+    "colorLetra": "#000000"
+  },
+  {
+        "id": 2.4,
+    "titulo": "Episodio 2: El Chocolate Secreto del Palacio",
+    "situacion": "Jinshi encarga en secreto un preparado que aumente el vigor y altere el comportamiento de un oficial de la corte de forma discreta.",
+    "sintomas": "Aumento del ritmo cardíaco, pupilas ligeramente activas, exceso de energía, calor corporal e inhibición conductual.",
+    "diagnostico": "Estimulación del sistema nervioso central provocada por alcaloides de Teobromina y Cafeína concentrados.",
+    "prevencion_boticaria": "Se procesan semillas tostadas de Cacao (Theobroma cacao). Para evitar una sobredosis que cause migrañas o taquicardia severa, se debe moler finamente y diluir en una base dulce controlada. La dosis exacta actúa como tónico medicinal; el exceso se convierte en un veneno de ansiedad.",
+    "imagen": "https://i.pinimg.com/736x/05/0b/d5/050bd56678db2e9506d3d75c2c441f4d.jpg",
+    "color": "#5D4037",
+    "colorLetra": "#FFFFFF"
+  },
+  {
+    "id": 3,
+    "titulo": "Episodio 3: El Sonambulismo de la Rosa de Algodón",
+    "situacion": "Una concubina camina dormida por las noches sobre los muros ejecutando una danza espectral. Al investigar, Maomao descubre que la joven se llama Fuyou (Rosa de Algodón) y que no ha ingerido ninguna sustancia o veneno para estar en ese estado.",
+    "sintomas": "Sonambulismo recurrent nocturno, estado de trance inconsciente, amnesia al despertar, mirada perdida y una transformación radical de su personalidad de la noche al día.",
+    "diagnostico": "Trastorno del sueño provocado por estrés psicológico severo y trauma emocional al enterarse de que sería entregada como 'recompensa' a un oficial militar.",
+    "prevencion_boticaria": "Advertencia: Este caso nos demuestra que no todas las afecciones físicas provienen de un veneno o planta; la mente puede enfermar al cuerpo por igual. Solución: No requiere hierbas, sino paz mental. Maomao ayuda a que Fuyou sea entregada al oficial (quien era su amado de la infancia), sanando el conflicto emocional. Nota de la Boticaria: Cada paciente es un mundo; nunca asumas que un síntoma extraño es brujería o toxinas sin analizar el entorno primero.",
+    "imagen": "https://i.pinimg.com/736x/fd/fa/c2/fdfac22d712b2db998eed755e22d2078.jpg",
+    "color": "#8E44AD",
+    "colorLetra": "#FFFFFF"
+  },
+  {
+    "id": 4.0,
+    "titulo": "Episodio 4: El Rescate de la Consorte Lihua",
+    "situacion": "A pesar de las advertencias anónimas de Maomao, las damas de honor de la Consorte Lihua siguen aplicándole el polvo blanco para ocultar su palidez por el luto, empeorando su estado de salud críticamente. Lihua se encuentra sumida en una profunda tristeza por la pérdida de su bebé y le pregunta a Maomao por qué no la deja ir. La boticaria le responde directamente que, si realmente deseara morir, habría dejado de comer por completo, pero el hecho de que siga intentándolo demuestra su voluntad de vivir.",
+    "sintomas": "La señorita se vuelve demacrada y se encuentra en postración total en cama, sufriendo de tos constante con sangre, incapacidad absoluta para retener alimentos sólidos, debilidad motriz severa, atrofia estomacal latente y parálisis digestiva funcional.",
+    "diagnostico": "Intoxicación severa en etapa avanzada por inhalación y absorción continua de plomo metálico con colapso del tracto digestivo secundario y riesgo de síndrome de realimentación.",
+    "prevencion_boticaria": "Maomao interviene físicamente y destruye el maquillaje. El tratamiento clínico se pauta en fases estrictas dentro de un aislamiento absoluto: para proteger la mucosa del estómago antes de servir alimentos, administra un extracto mucilaginoso de raíz de Malvavisco (Althaea officinalis) y regaliz, creando una capa protectora contra los ácidos. Al inicio solo le daba arroz triturado cocido con bayas de Goji; cuando logró comer de nuevo, introdujo porciones milimétricas de caldos ligeros purificantes con jengibre para evitar náuseas, complementados con sopa y melocotón maduro triturado de bajo índice ácido. Además, la hace tomar té ya que orinar ayuda a la eliminación renal del veneno, y manda a construir un sauna para expulsar toxinas mediante el sudor. La ventilación de la casa es crucial, prohibiendo mezclar el aire con inciensos aromáticos. La señorita Lihua se recuperó por completo después de 2 meses.",
+    "imagen": "https://i.pinimg.com/1200x/9b/d3/a3/9bd3a370d5eb775207290252c99cbb2a.jpg",
+    "color": "#C55C66",
+    "colorLetra": "#FFFFFF"
+  }
+]
+          

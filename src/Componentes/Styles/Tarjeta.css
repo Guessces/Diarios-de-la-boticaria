@@ -1,0 +1,112 @@
+.btn-tarjeta {
+  width: 100%;
+  padding: 12px 13px;
+  border: 1px solid #e1e5db;
+  border-radius: 9px;
+  background: #fafbf8;
+  color: #374337;
+  cursor: pointer;
+  text-align: left;
+  line-height: 1.4;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    background-color 0.2s ease;
+}
+
+.btn-tarjeta:hover {
+  transform: translateX(3px);
+  background: #edf4e9;
+}
+
+.btn-tarjeta.activo {
+  border-color: #2e5a44;
+  background: #2e5a44;
+  color: #fff;
+  font-weight: 700;
+  box-shadow: 0 5px 14px rgba(46, 90, 68, 0.2);
+}
+
+.tarjeta-contenedor {
+  overflow: hidden;
+  border: 2px solid;
+  border-radius: 14px;
+  background: #fff;
+}
+
+.tarjeta-cabecera {
+  padding: 18px 22px;
+}
+
+.tarjeta-cabecera h2 {
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(1.2rem, 2vw, 1.65rem);
+  line-height: 1.35;
+}
+
+.cuerpo-tarjeta {
+  display: grid;
+  gap: 18px;
+  padding: 20px;
+}
+
+.imagen-tarjeta {
+  display: block;
+  width: 100%;
+  max-height: 65vh;
+  border-radius: 9px;
+  background: #f4f0e8;
+  object-fit: contain;
+}
+
+.bloque-info {
+  margin: 0 0 16px;
+}
+
+.bloque-info h3 {
+  margin: 0 0 6px;
+  color: #344436;
+  font-size: 1rem;
+}
+
+.bloque-info p {
+  margin: 0;
+  color: #566056;
+  line-height: 1.65;
+}
+
+.bloque-info.prevencion {
+  margin-bottom: 0;
+  padding: 14px 16px;
+  border-left: 4px solid #7c9d5a;
+  border-radius: 5px;
+  background: #f0f7ec;
+}
+
+.efecto-entrada {
+  animation: tarjetaEntrar 0.4s ease both;
+}
+
+@keyframes tarjetaEntrar {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
