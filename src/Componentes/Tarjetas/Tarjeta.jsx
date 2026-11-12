@@ -1,5 +1,5 @@
-import Descripcion from './descripcion';
-import Imagen from './imagen';
+import Descripcion from './Descripcion';
+import Imagen from './Imagen';
 import Titulo from './Titulo';
 
 export default function Tarjeta({ caso, style, headerStyle }) {

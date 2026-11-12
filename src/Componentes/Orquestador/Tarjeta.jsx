@@ -1,4 +1,4 @@
-import TarjetaVista from '../tarjetas/Tarjeta';
+import TarjetaVista from '../Tarjetas/Tarjeta';
 
 export default function Tarjeta({ caso }) {
   const color = caso.color || '#2e5a44';

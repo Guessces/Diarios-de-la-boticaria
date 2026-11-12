@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import datosCasos from '../../data.json';
 import Efecto from '../Home/Efecto';
 import Tarjeta from '../Orquestador/Tarjeta';
-import Boton from '../tarjetas/Boton';
+import Boton from '../Tarjetas/Boton';
 import '../Styles/main.css';
 import '../Styles/Tarjeta.css';
 
